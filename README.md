@@ -1,1 +1,7 @@
-This is a test repository. PLEASE IGNORE IT!
+# Test Repository
+
+This is a test repository.
+
+## Must be ignored
+
+PLEASE IGNORE THIS REPOSITORY!
